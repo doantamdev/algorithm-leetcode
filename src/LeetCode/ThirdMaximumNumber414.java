@@ -1,3 +1,4 @@
+package LeetCode;
 public class ThirdMaximumNumber414 {
     public static int thirdMax(int[] nums) {
         long[] maxArr = { Long.MIN_VALUE, Long.MIN_VALUE, Long.MIN_VALUE };
@@ -28,7 +29,7 @@ public class ThirdMaximumNumber414 {
     }
 
     public static void main(String[] args) {
-        int[] arr1 = {3, 2, 1};
+        int[] arr1 = {3,6,4,2,1};
         System.out.println(thirdMax(arr1)); 
     }
 }

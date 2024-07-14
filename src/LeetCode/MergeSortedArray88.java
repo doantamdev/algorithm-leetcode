@@ -1,3 +1,4 @@
+package LeetCode;
 public class MergeSortedArray88 {
     // public static void merge(int[] n1, int m, int[] n2, int n) {
     //     for (int i = 0; i < n; i++) {

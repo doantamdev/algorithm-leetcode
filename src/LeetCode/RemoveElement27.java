@@ -1,3 +1,4 @@
+package LeetCode;
 public class RemoveElement27 {
     // public static int removeElement(int[] nums, int val) {
     //     int newLength = 0;

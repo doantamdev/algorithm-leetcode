@@ -1,3 +1,4 @@
+package LeetCode;
 public class FirstUniqueCharacterInAString387 {
     public static int firstUniqChar(String s) {
         char[] arr = s.toCharArray();

@@ -1,3 +1,4 @@
+package LeetCode;
 public class FindNumEven1295 {
     public static void main(String[] args) {
         int [] nums =  {1,22,3,4};

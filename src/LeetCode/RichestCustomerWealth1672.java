@@ -1,3 +1,4 @@
+package LeetCode;
 public class RichestCustomerWealth1672 {
     public static int maximumWealth(int[][] accounts) {
         int soKhachHang = accounts.length;
